@@ -19,9 +19,9 @@ The Box React Starter project is an example repo that includes an Express backen
     * [Create Metadata Templates documentation](https://support.box.com/hc/en-us/articles/360044194033-Customizing-Metadata-Templates)
     * Use the Box CLI or Postman collection to get the values for the following variables.
 6. Update the following [client/src/Constants.js](/client/src/Constants.js) file variables
-    * [ENTERPRISE_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/Constants.js#L13)
-    * [METADATA_TEMPLATE_KEY](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/Constants.js#L14)
-    * [Corresponding metadata properties](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/Constants.js#L15)
+    * [ENTERPRISE_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/Constants.js#L12)
+    * [METADATA_TEMPLATE_KEY](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/Constants.js#L13)
+    * [Corresponding metadata properties](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/Constants.js#L14)
     * [PREVIEW_FILE_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/Constants.js#L8)
 7. Run `yarn start` in both the server directory and client directory.
 
