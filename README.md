@@ -15,7 +15,7 @@ The Box React Starter project is an example repo that includes an Express backen
 5. Update the following [server/Constants.js](/server/Constants.js) file variables
     * [RECENTS_USER_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/server/Constants.js#L4)
     * [PREVIEW_FILE_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/server/Constants.js#L7)
-6. The ContentExplorerMetadata.js example component requires a metadata templated to be created first. 
+6. The [ContentExplorerMetadata.js](https://github.com/kylefernandadams/box-react-starter/blob/main/client/src/components/elements/ContentExplorerMetadata.js) example component requires a metadata templated to be created first. 
     * [Create Metadata Templates documentation](https://support.box.com/hc/en-us/articles/360044194033-Customizing-Metadata-Templates)
     * Use the Box CLI or Postman collection to get the values for the following variables.
 6. Update the following [client/src/Constants.js](/client/src/Constants.js) file variables
