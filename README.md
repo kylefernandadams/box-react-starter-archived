@@ -1,5 +1,5 @@
 # Box React Starter
-The Box React Starter project is an example repo that includes an Express backend with the Box UI Elements React components
+The Box React Starter project is an example repo that includes an Express backend with the [Box UI Elements](https://github.com/box/box-ui-elements) React components
 
 
 ## Helpful tools to get IDs needed in the prerequisites section.
@@ -13,10 +13,10 @@ The Box React Starter project is an example repo that includes an Express backen
 3. Create and authorize a JWT Application in the [Box Developer Console](https://account.box.com/developers/services) using the following [Setup Guide.](https://developer.box.com/en/guides/applications/custom-apps/jwt-setup/)
 4. Copy the generated *_config.json Box application file to the server directory.
 5. Update the following [server/Constants.js](/server/Constants.js) file variables
-    * [RECENTS_USER_ID]()
-    * [PREVIEW_FILE_ID]()
-    * [SHARE_FILE_ID]()
-6. Update the following [client/Constants.js](/client/Constants.js) file variables
+    * [RECENTS_USER_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/server/Constants.js#L4)
+    * [PREVIEW_FILE_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/server/Constants.js#L7)
+    * [SHARE_FILE_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/server/Constants.js#L8)
+6. Update the following [client/Constants.js](/client/src/Constants.js) file variables
     * [ENTERPRISE_ID]()
     * [METADATA_TEMPLATE_KEY]()
     * [Corresponding metadata properties]()
