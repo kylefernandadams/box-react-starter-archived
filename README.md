@@ -11,7 +11,7 @@ The Box React Starter project is an example repo that includes an Express backen
 1. Clone this github repo.
 2. Run `yarn install` to install dependencies
 3. Create and authorize a JWT Application in the [Box Developer Console](https://account.box.com/developers/services) using the following [Setup Guide.](https://developer.box.com/en/guides/applications/custom-apps/jwt-setup/)
-4. Copy the generated *_config.json Box application file to the server directory.
+4. Copy the generated *_config.json Box application file to the [server directory](/server).
 5. Update the following [server/Constants.js](/server/Constants.js) file variables
     * [RECENTS_USER_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/server/Constants.js#L4)
     * [PREVIEW_FILE_ID](https://github.com/kylefernandadams/box-react-starter/blob/main/server/Constants.js#L7)
