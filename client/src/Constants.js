@@ -6,7 +6,6 @@ export const EXPRESS_SERVER_PORT = "8080";
 // IDs to use for demos
 export const EXPLORER_FOLDER_ID = "0";
 export const PREVIEW_FILE_ID = "CHANGE_ME";
-export const SHARE_FILE_ID = "CHANGE_ME";
 export const UPLOAD_FOLDER_ID = "0";
 
 // Variables for ContentExplorerMetadata.js - CHANGE ALL

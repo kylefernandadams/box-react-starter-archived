@@ -5,7 +5,6 @@ module.exports = {
     EXPLORER_FOLDER_ID: "https://api.box.com/2.0/folders/0",
     PICKER_FOLDER_ID: "https://api.box.com/2.0/folders/0",
     PREVIEW_FILE_ID: "https://api.box.com/2.0/files/CHANGE_ME",
-    SHARE_FILE_ID: "https://api.box.com/2.0/files/CHANGE_ME",
     UPLOAD_FOLDER_ID: "https://api.box.com/2.0/folders/0",
     EXPLORER_SCOPES: "base_explorer item_preview item_download item_rename item_delete item_share item_upload root_readwrite annotation_view_all annotation_edit",
     RECENTS_SCOPES: "base_explorer item_preview item_download item_rename item_delete item_share item_upload root_readwrite annotation_view_all annotation_edit" ,
